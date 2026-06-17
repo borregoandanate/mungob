@@ -1,6 +1,4 @@
-# mungob
 
-# Programa para calcular el promedio de una lista de números
 
 def calcular_promedio(lista_numeros):
     if len(lista_numeros) == 0:
